@@ -71,6 +71,6 @@ C:\Users\Elena\Documents\Testing\Testing\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Elena\Documents\Testing\Testing\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Elena\Documents\Testing\Testing\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Elena\Documents\Testing\Testing\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Elena\Documents\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
 C:\Users\Elena\Documents\Testing\Testing\obj\Debug\Testing.dll
 C:\Users\Elena\Documents\Testing\Testing\obj\Debug\Testing.pdb
+C:\Users\Elena\Documents\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
