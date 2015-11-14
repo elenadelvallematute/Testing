@@ -61,7 +61,10 @@ namespace Testing.App_Start
         /// <param name="kernel">The kernel.</param>
         private static void RegisterServices(IKernel kernel)
         {
-
+            //#if DEBUG
+            //    kernel.Bind<IMailService>().To<MailService>().InRequestScope;
+            //#else
+            //#endif
         }        
     }
 }
